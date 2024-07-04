@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.0](https://github.com/ethpandaops/ethereum-package/compare/4.1.0...4.2.0) (2024-07-04)
+
+
+### Features
+
+* generate keys if not default key is used ([#707](https://github.com/ethpandaops/ethereum-package/issues/707)) ([2d1cab5](https://github.com/ethpandaops/ethereum-package/commit/2d1cab5317dac62524601f392a4a62a7c3a88b80))
+
 ## [4.1.0](https://github.com/ethpandaops/ethereum-package/compare/4.0.0...4.1.0) (2024-07-03)
 
 
